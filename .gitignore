@@ -1,0 +1,9 @@
+config/nvim/.neoconf.json
+config/nvim/.gitignore
+config/Code/Local Storage/
+config/Code/Cache/
+config/Code/WebStorage/
+.DS_Store
+*.swp
+*.swo
+*~
