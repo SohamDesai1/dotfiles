@@ -51,3 +51,4 @@ require("lazy").setup({
     },
   },
 })
+vim.o.shell = "/usr/bin/fish"
